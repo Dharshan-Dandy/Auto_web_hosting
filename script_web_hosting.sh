@@ -15,7 +15,7 @@ sudo service httpd start
 
 
 # clone the repo from GitHub 
-sudo git clone https://github.com/Dharshan-Dandy/Auto_web_hosting.git
+#sudo git clone https://github.com/Dharshan-Dandy/Auto_web_hosting.git
 
 #Unzip the cloned repo
 unzip ./Auto_web_hosting/static_web_page.zip /var/www/html/
